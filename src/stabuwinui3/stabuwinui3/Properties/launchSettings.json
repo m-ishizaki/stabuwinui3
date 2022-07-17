@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "stabuwinui3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "stabuwinui3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
